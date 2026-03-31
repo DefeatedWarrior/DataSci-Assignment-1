@@ -10,4 +10,4 @@ Things to note:
 
 3. You can also use the **latest release** to get the newest copy of the data story
 
-4. The Data Story is hosted at <a href="https://DefeatedWarrior.github.io", target="_blank">DefeatedWarrior.github.io</a>
+4. The Data Story is hosted at <a href="https://DefeatedWarrior.github.io">DefeatedWarrior.github.io</a>
