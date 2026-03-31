@@ -1,0 +1,65 @@
+Slide 1 – Title Slide
+Introduce yourself and the project
+Explain that the story explores teen social media use, wellbeing, and the under-16 law
+
+Slide 2 – Introduction
+Social media plays a big role in teen life
+Teens use it for entertainment, connection, and belonging
+Australia has new restrictions for under-16s to protect health and wellbeing
+Purpose: see if social media trends support these restrictions
+
+Slide 3 – User Persona
+Liam, 15, Canberra
+Uses social media a lot, especially late at night
+Follows trends and enjoys memes
+Needs: understand the law, see social media impact, learn tips to balance screen time
+
+Slide 4 – Problem Statement
+Liam wants to manage his social media use
+Facing potential negative effects of screen time
+New law limits access for under-16s
+
+Slide 5 – Dear Data
+Visual summary of app usage over ten days
+Outer ring shows time spent per app
+Inner rings show number of opens and notifications
+Highlights patterns of attention and engagement
+
+Slide 6 – Behaviour: Notifications and Usage
+More notifications lead to more app opens and longer usage
+App usage is influenced by alerts, not just personal choice
+Teens often check apps without realizing it due to notifications
+
+Slide 7 – Attention: Dominant Apps
+Small number of apps take up most screen time
+Mostly social media and entertainment apps
+Platforms are designed to capture attention and keep users engaged
+
+Slide 8 – Comparison: Liam and Other Students
+Liam’s usage is similar to peers
+High screen time is common among teens
+Peer pressure and desire for social acceptance drive engagement
+Shows the trend is widespread, not just one individual
+
+Slide 9 – Impact: Mental Health and Sleep
+Higher usage is linked to lower mental health scores
+Higher usage is linked to fewer sleep hours
+Indicates potential negative effects, even if not direct causation
+
+Slide 10 – Apps versus Screen Time
+More apps installed often means more total screen time
+Social media and entertainment apps dominate usage
+Utility and productivity apps contribute little
+Type of app strongly influences total usage
+
+Slide 11 – Trends, Variability, Bias and Ethics
+Notifications drive engagement
+Usage varies by app, day, and individual habits
+Limitations: single user, short timeframe
+Ethical considerations: app design and government restrictions
+
+Slide 12 – Conclusion
+Social media use is strongly influenced by app design and notifications
+Excessive usage may affect health and sleep
+Restrictions for younger users are supported by the data
+Helps teens make informed choices and balance connection with control
